@@ -10,7 +10,6 @@
 - [Dataset](#dataset)
 - [Results and Checkpoints](#results-and-checkpoints)
 - [Requirements](#requirements)
-- [Usage](#usage)
 - [Citation](#citation)
  
 ## Overview   
@@ -102,17 +101,9 @@ Finally, these files should be organized as follows:
 ├── test.ipynb
 ```
 
-## Usage
 The yolo-face repository used in the article is [here](https://github.com/derronqi/yolov7-face). 
 
-### How to pre-train
-The pre-training and semi-supervised fine-tuning code will be released immediately after acceptance. 
 
-### How to fine-tune
-The pre-training and semi-supervised fine-tuning code will be released immediately after acceptance. 
-
-### How to test
-Please follow test.ipynb step by step. 
 
 
 ## Citation
